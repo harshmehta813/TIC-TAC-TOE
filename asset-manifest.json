@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://harshmehta813.github.io/csb-mspsx/static/css/main.019ac046.chunk.css",
+    "main.js": "https://harshmehta813.github.io/csb-mspsx/static/js/main.5cb2c88f.chunk.js",
+    "main.js.map": "https://harshmehta813.github.io/csb-mspsx/static/js/main.5cb2c88f.chunk.js.map",
+    "runtime-main.js": "https://harshmehta813.github.io/csb-mspsx/static/js/runtime-main.9916c2c1.js",
+    "runtime-main.js.map": "https://harshmehta813.github.io/csb-mspsx/static/js/runtime-main.9916c2c1.js.map",
+    "static/js/2.57a2391b.chunk.js": "https://harshmehta813.github.io/csb-mspsx/static/js/2.57a2391b.chunk.js",
+    "static/js/2.57a2391b.chunk.js.map": "https://harshmehta813.github.io/csb-mspsx/static/js/2.57a2391b.chunk.js.map",
+    "index.html": "https://harshmehta813.github.io/csb-mspsx/index.html",
+    "static/css/main.019ac046.chunk.css.map": "https://harshmehta813.github.io/csb-mspsx/static/css/main.019ac046.chunk.css.map",
+    "static/js/2.57a2391b.chunk.js.LICENSE.txt": "https://harshmehta813.github.io/csb-mspsx/static/js/2.57a2391b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9916c2c1.js",
+    "static/js/2.57a2391b.chunk.js",
+    "static/css/main.019ac046.chunk.css",
+    "static/js/main.5cb2c88f.chunk.js"
+  ]
+}
